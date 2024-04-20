@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/templates/Karta.htm" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/templates/Ob_avtore.htm" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/templates/Simvolika.htm" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/templates/geo.htm" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/templates/history.htm" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/templates/index.htm" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
